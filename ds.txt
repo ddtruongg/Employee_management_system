@@ -1,0 +1,11 @@
+1,Hoang,20119180,1/10/2002,Male,0974245,BinhDuong,13,guard,
+2,Trung,20119122,6/9/2002,Male,0874555,MyTho,10,guard,
+22,ha,20119175,22/5/2002,Female,0966565,bd,15,labor,
+3,Minh,20119280,1/10/2002,Male,0965196,LongAn,14,guard,
+4,Thuan,20119422,16/9/2002,Male,0917574,GiaLai,20,guard,
+5,Nhat,20119024,1/12/2002,Male,0965765,SaiGon,17,cashier,
+6,Phong,20119025,1/8/2002,Male,0899787,TayNinh,30,cashier,
+7,Truong,20119174,26/10/2002,Male,09190034,VinhPhuc,25,labor,
+8,Cuong,20119027,19/8/2002,Male,05464498,SaiGon,17,labor,
+9,Nams,20110428,20/11/2002,Male,09747110,AnGiang,22,guard,
+
